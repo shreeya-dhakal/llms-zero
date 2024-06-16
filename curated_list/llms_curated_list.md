@@ -16,9 +16,9 @@ In this blog, my attempt is to create a comprehensive reading list, including so
 
 ### Survey Papers
 
-- [A Survey of Large Language Models](https://github.com/THUDM/GLM-130B). Zhao et al., 2023. [GitHub](https://github.com/THUDM/GLM-130B)
-- [Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers](https://arxiv.org/abs/2301.00797). Qin et al., 2024
-- [Large Language Models: A Survey](https://arxiv.org/abs/2306.08220). Minaee et al., 2024
+- [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223). Zhao et al., 2023. [GitHub](https://github.com/RUCAIBox/LLMSurvey)
+- [Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers](https://arxiv.org/pdf/2404.04925). Qin et al., 2024
+- [Large Language Models: A Survey](https://arxiv.org/pdf/2402.06196). Minaee et al., 2024
 
 ### Efficient Pre-training and Scaling Laws
 
@@ -32,7 +32,7 @@ In this blog, my attempt is to create a comprehensive reading list, including so
 ### Survey Papers
 
 - [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732). Tay et al., 2020 (Revised 2022). Google
-- [A Survey on Efficient Training of Transformers](https://arxiv.org/abs/2303.11326). Zhuang et al., 2023
+- [A Survey on Efficient Training of Transformers](https://arxiv.org/pdf/2302.01107). Zhuang et al., 2023
 
 ### Fine-tuning and Parameter-Efficient Transfer Learning
 
@@ -44,22 +44,22 @@ In this blog, my attempt is to create a comprehensive reading list, including so
 ### Survey Papers
 
 - [A Survey of Quantization Methods for Efficient Neural Network Inference](https://arxiv.org/abs/2103.13630). Gholami et al., 2021. UC Berkeley
-- [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2210.06640). Lialin et al., 2022. UMass Lowell
-- [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.01852). Yang et al., 2023 [GitHub](https://github.com/THUDM/ChatGLM-6B)
-- [The Efficiency Spectrum of Large Language Models: An Algorithmic Survey](https://arxiv.org/abs/2304.07850). Ding et al., 2024. Microsoft
+- [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647). Lialin et al., 2022. UMass Lowell
+- [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712). Yang et al., 2023 [GitHub](https://github.com/THUDM/ChatGLM-6B)
+- [The Efficiency Spectrum of Large Language Models: An Algorithmic Survey](https://arxiv.org/abs/2312.00678). Ding et al., 2024. Microsoft
 
 ### Aligning LLMs
 
 - [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/abs/1706.03741). Christiano et al., 2017 (Revised 2023). Google
 - [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593). Ziegler et al., 2019 (Revised 2020)
 - [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155). Ouyang et al., 2022. OpenAI - InstructGPT
-- [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2210.06570). Bia et al., 2022. Anthropic
-- [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2206.04772). Ganguli et al., 2022. Anthropic
-- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2206.05802). Bia et al., 2022. Anthropic
+- [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2204.05862). Bia et al., 2022. Anthropic
+- [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/pdf/2209.07858). Ganguli et al., 2022. Anthropic
+- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/pdf/2212.08073). Bia et al., 2022. Anthropic
 
 ### Survey Papers
 
-- [Aligning Large Language Models with Human: A Survey](https://arxiv.org/abs/2301.12345). Wang et al., 2023. Huawei Noah’s Ark Lab
-- [Large Language Model Alignment: A Survey](https://arxiv.org/abs/2301.08200). Shen et al., 2023. Tianjin University
+- [Aligning Large Language Models with Human: A Survey](https://arxiv.org/pdf/2307.12966). Wang et al., 2023. Huawei Noah’s Ark Lab
+- [Large Language Model Alignment: A Survey](https://arxiv.org/pdf/2309.15025). Shen et al., 2023. Tianjin University
 
 Note, this is not an exhaustive reading list, and I will be updating it as I come across any new paper while I work on #icodeformyभाषा! There will be more of such reading lists in the future for different areas within natural language processing.
